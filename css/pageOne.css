@@ -117,11 +117,6 @@
     float: right;
 }
 
-.status > ul {
-    overflow: hidden;
-    display: inline-block;
-}
-
 .status > p {
     display: inline-block;
     margin-left: 30px;
