@@ -122,6 +122,10 @@
     margin-left: 30px;
 }
 
+.status > ul {
+    height: 10px;
+}
+
 .one-statu > li {
     width: 10px;
     height: 10px;
